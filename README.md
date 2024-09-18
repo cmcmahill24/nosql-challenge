@@ -1,5 +1,5 @@
-### nosql-challenge
-# Module 12 Challenge 
+# nosql-challenge
+### Module 12 Challenge 
 In the resources folder is the establishments.json where the data originated from.
 NoSql_setup_starter and NoSql_analysis_starter is where you will find my code and analysis from the data. 
 #Resources: Xpert Learning Assistant for overall debugging and coding issues. 
